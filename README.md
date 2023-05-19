@@ -1,8 +1,8 @@
 <h1 align="center">hey, 👋 I'm I chhaya chouhan</h1>
 <h3 align="center">Web Devleoper</h3>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" widht="400"/> 
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" width="100%"/> 
 
-<p align="center" "> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" widht="400" /> </p>
+<p align="center" "> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" width="400" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chhyachouhan966" alt="chhyachouhan966" /></a> </p>
 

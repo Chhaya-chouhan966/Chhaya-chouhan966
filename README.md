@@ -1,7 +1,7 @@
 <h1 align="center">hey, 👋 I'm I chhaya chouhan</h1>
 <h3 align="center">Web Devleoper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chhyachouhan966&label=Profile%20views&color=0e75b6&style=flat" alt="chhyachouhan966" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chhyachouhan966" alt="chhyachouhan966" /></a> </p>
 

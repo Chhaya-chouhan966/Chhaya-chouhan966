@@ -4,7 +4,7 @@
 
 <p align="right" "> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" width="400" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chhyachouhan966" alt="chhyachouhan966" /></a> </p>
+<p align="left"> <img align="bottom" src="https://github-profile-trophy.vercel.app/?username=chhyachouhan966" alt="chhyachouhan966" /></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

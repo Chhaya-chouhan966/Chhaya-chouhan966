@@ -1,6 +1,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" alt="development" width="100%"/>
 <h1 align="left">hey, 👋 I'm chhaya chouhan</h1>
-<h3 align="left">Passionate Technical Writer and visionary, dedicated to inspiring and mentoring upcoming talents and developers. Strong advocate for open-source contribution and community development. Thrives on creating clear and accessible documentation to empower others in the technology field. Committed to making a positive impact and leaving a lasting legacy.</h3> 
+<h3 align="left">Passionate Technical Writer and visionary, dedicated to inspiring and mentoring upcoming talents and developers👨‍💻. Strong advocate for open-source contribution and community development. Thrives on creating clear and accessible documentation to empower others in the technology field. Committed to making a positive impact and leaving a lasting legacy.</h3> 
 
 <p align="right" "> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" width="400" /> </p>
 

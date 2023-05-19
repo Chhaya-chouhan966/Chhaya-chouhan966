@@ -2,7 +2,7 @@
 <h1 align="left">hey, 👋 I'm chhaya chouhan</h1>
 <h3 align="left">Passionate Technical Writer and visionary, dedicated to inspiring and mentoring upcoming talents and developers👨‍💻. Strong advocate for open-source contribution and community development. Thrives on creating clear and accessible documentation to empower others in the technology field. Committed to making a positive impact and leaving a lasting legacy.</h3>
 
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" width="400" />
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqQ7N6R2R0oMNegYk6z1zy3vN5O5fq5la8ZTyE3EdJrZ62m5jikqk2YepCDGXSSRRJ7DE&usqp=CAU" alt="development" width="400" />
 
 <p align="right" "> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" width="400" /> </p>
 

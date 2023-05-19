@@ -1,6 +1,6 @@
 <h1 align="center">hey, 👋 I'm I chhaya chouhan</h1>
 <h3 align="center">Web Devleoper</h3>
- <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPgZkNN4otmy-StIaj5iMgHxeialYmWrQMNodJ2Z8WGydbiolUEzk7RF6KxJ_7Jx6sNY&usqp=CAU" alt="development" width="80%"/> 
+ <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPgZkNN4otmy-StIaj5iMgHxeialYmWrQMNodJ2Z8WGydbiolUEzk7RF6KxJ_7Jx6sNY&usqp=CAU" alt="development" width="100%"/> 
 
 <p align="center" "> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" width="400" /> </p>
 

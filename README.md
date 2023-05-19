@@ -6,7 +6,7 @@
 
 <p align="left"> <img align="bottom" src="https://github-profile-trophy.vercel.app/?username=chhyachouhan966" alt="chhyachouhan966" /></p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="bottom"> <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></p>
 
 - 🔭 I’m currently working on [pizza order website](https://pizzaapp-mu.vercel.app/)
 

@@ -4,8 +4,7 @@
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqQ7N6R2R0oMNegYk6z1zy3vN5O5fq5la8ZTyE3EdJrZ62m5jikqk2YepCDGXSSRRJ7DE&usqp=CAU" alt="development" width="400" />
 
-<p align="right" "> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" width="400" /> </p>
-
+<!-- <p align="right" "> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFmcmyP5jh0o8xpHReYmXVDc7ybP4Mtc_Lw&usqp=CAU" alt="development" width="400" /> </p> -->
 <!-- <p align="left"> <img align="bottom" src="https://github-profile-trophy.vercel.app/?username=chhyachouhan966" alt="chhyachouhan966" /></p> -->
 
 
